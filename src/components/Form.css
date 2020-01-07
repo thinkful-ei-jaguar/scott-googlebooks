@@ -1,0 +1,19 @@
+.formSearchWrap {
+  display: block;
+  background-color: grey ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50px;
+}
+
+.selectDropdownWrap {
+  display: block;
+  background-color: lightgray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50px;
+}
+
+

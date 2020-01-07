@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font: calc(100% * 0.625) / 1.15 HelveticaNeue, Helvetica, sans-serif;
+}
